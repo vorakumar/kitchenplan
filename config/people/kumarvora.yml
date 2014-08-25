@@ -1,7 +1,3 @@
-groups:
-    - bash
-    - developer
-    - smartie
 recipes:
     global:
         - applications::git
